@@ -1,0 +1,14 @@
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Calculator.resources
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\CS03-17\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication7(Calculator)\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication7(Calculator)\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication7(Calculator)\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication7(Calculator)\WindowsApplication7\obj\Debug\WindowsApplication7.pdb

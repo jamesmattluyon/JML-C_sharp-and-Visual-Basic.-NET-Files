@@ -1,0 +1,30 @@
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Form1.resources
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.vbproj.GenerateResource.Cache
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.Form1.resources
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.vbproj.GenerateResource.Cache
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.Form1.resources
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.vbproj.GenerateResource.Cache
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\WindowsApplication16(ScoreBoard)\WindowsApplication16\obj\Debug\WindowsApplication16.pdb

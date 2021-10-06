@@ -1,0 +1,43 @@
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\naomi\onedrive\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\naomi\OneDrive\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\naomi\OneDrive\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\naomi\OneDrive\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.AdminLoginPage.resources
+C:\Users\naomi\OneDrive\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.StudentsLoginPage.resources
+F:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+F:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+F:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+F:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.AdminLoginPage.resources
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.StudentsLoginPage.resources
+G:\MADERAL\PROGRAMMING\Nakamura, Naomi\Login\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.AdminLoginPage.resources
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.StudentsLoginPage.resources
+C:\Users\james matthew luyon\Documents\Visual Studio 2013\Projects\Data base niya\Login\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache

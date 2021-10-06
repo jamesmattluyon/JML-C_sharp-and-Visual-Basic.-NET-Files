@@ -1,0 +1,7 @@
+C:\Users\james matthew luyon\Documents\Visual Studio 2017\Projects\Recursor\Recursor\obj\Debug\Recursor.csprojAssemblyReference.cache
+C:\Users\james matthew luyon\Documents\Visual Studio 2017\Projects\Recursor\Recursor\obj\Debug\Recursor.csproj.CoreCompileInputs.cache
+C:\Users\james matthew luyon\Documents\Visual Studio 2017\Projects\Recursor\Recursor\bin\Debug\Recursor.exe.config
+C:\Users\james matthew luyon\Documents\Visual Studio 2017\Projects\Recursor\Recursor\bin\Debug\Recursor.exe
+C:\Users\james matthew luyon\Documents\Visual Studio 2017\Projects\Recursor\Recursor\bin\Debug\Recursor.pdb
+C:\Users\james matthew luyon\Documents\Visual Studio 2017\Projects\Recursor\Recursor\obj\Debug\Recursor.exe
+C:\Users\james matthew luyon\Documents\Visual Studio 2017\Projects\Recursor\Recursor\obj\Debug\Recursor.pdb

@@ -1,0 +1,10 @@
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\bin\Debug\ImageInclusion.exe.config
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\bin\Debug\ImageInclusion.exe
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\bin\Debug\ImageInclusion.pdb
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\bin\Debug\ImageInclusion.xml
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\obj\Debug\ImageInclusion.Form1.resources
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\obj\Debug\ImageInclusion.Resources.resources
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\obj\Debug\ImageInclusion.vbproj.GenerateResource.Cache
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\obj\Debug\ImageInclusion.exe
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\obj\Debug\ImageInclusion.xml
+c:\users\james matthew luyon\documents\visual studio 2012\Projects\ImageInclusion\ImageInclusion\obj\Debug\ImageInclusion.pdb

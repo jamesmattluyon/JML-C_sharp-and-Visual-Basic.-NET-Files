@@ -1,0 +1,15 @@
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.AboutBox1.resources
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Form1.resources
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.vbproj.GenerateResource.Cache
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(PASSWORD)\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(PASSWORD)\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(PASSWORD)\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication16(PASSWORD)\WindowsApplication16\obj\Debug\WindowsApplication16.pdb

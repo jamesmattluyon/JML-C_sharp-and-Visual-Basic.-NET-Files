@@ -1,0 +1,27 @@
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.exe.config
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.Form1.resources
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.Resources.resources
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.vbproj.GenerateResource.Cache
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.exe
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.pdb
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.xml
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.Form2.resources
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.exe
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.xml
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.pdb
+c:\users\cs03-17\documents\visual studio 2013\Projects\WindowsApplication18\WindowsApplication18\obj\Debug\WindowsApplication18.Form3.resources
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\bin\Debug\WindowsApplication18.exe.config
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.exe
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.xml
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.pdb
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\bin\Debug\WindowsApplication18.exe
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\bin\Debug\WindowsApplication18.pdb
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\bin\Debug\WindowsApplication18.xml
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.Form1.resources
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.Form2.resources
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.Resources.resources
+\\LALA\Students\CS03\CS03-17\JAMESMATT\VISUAL STUDIO\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.vbproj.GenerateResource.Cache
+C:\Users\james matthew luyon\Documents\Visual Studio 2012\Projects\WindowsApplication18(ChangePass)\WindowsApplication18\bin\Debug\WindowsApplication18.exe.config
+C:\Users\james matthew luyon\Documents\Visual Studio 2012\Projects\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.exe
+C:\Users\james matthew luyon\Documents\Visual Studio 2012\Projects\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.xml
+C:\Users\james matthew luyon\Documents\Visual Studio 2012\Projects\WindowsApplication18(ChangePass)\WindowsApplication18\obj\Debug\WindowsApplication18.pdb
